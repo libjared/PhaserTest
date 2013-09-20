@@ -17,7 +17,7 @@
     var speed = 5;
 
     function create() {
-        game.stage.backgroundColor = "#0f0fff";
+        game.stage.backgroundColor = "#0f0f0f";
         logo = game.add.sprite(game.world.centerX, game.world.centerY, 'logo');
         logo.anchor.x = 0.5;
         logo.anchor.y = 0.5;
